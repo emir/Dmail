@@ -1,0 +1,9 @@
+.idea
+dmail.iml
+debug/
+target/
+Cargo.lock
+.env
+client_secret.json
+**/*.rs.bk
+*.pdb
